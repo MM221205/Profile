@@ -12,15 +12,14 @@
 } */
 
 :root {
-    --bg: #0F172A;      /* Professional Dark Navy / Slate Background */
-    --card: #1E293B;    /* Card mate premium slate color */
-    --text: #F1F5F9;    /* Ekdam clean ane vachai tevu White Text */
-    --muted: #94A3B8;   /* Sub-title mate Professional Gray */
-    --cyan: #3B82F6;    /* IT Standard Royal Blue (Highlight color) */
-    --purple: #6366F1;  /* Secondary elements mate Corporate Indigo */
-    --border: #334155;  /* Subtle Border Color */
+    --bg: #0B0F19;      /* Ekdam dark midnight blue background */
+    --card: #111827;    /* Thodu light dark card mate, jethi card alag dekhay */
+    --text: #F3F4F6;    /* Ekdam chokhkho light (soft white) font */
+    --muted: #9CA3AF;   /* Subtitle ane extra info mate aacho gray color */
+    --cyan: #06B6D4;    /* Modern IT field no vibrant teal/cyan highlight color */
+    --purple: #8B5CF6;  /* Secondary element mate professional purple */
+    --border: #1F2937;  /* Card ane section ni border mate sleek dark color */
 }
-
 * {
     margin: 0;
     padding: 0;
