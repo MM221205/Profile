@@ -12,13 +12,13 @@
 } */
 
 :root {
-    --bg: #0A192F;      /* Deep Navy Blue Background */
-    --card: #112240;    /* Cards mate slightly lighter Navy Blue */
-    --text: #FBF9F1;    /* Vachva ma aaramdayak Cream White Text */
-    --muted: #8892B0;   /* Sub-title mate grayish/muted color */
-    --cyan: #7CA1B4;    /* Highlights ane buttons mate Dusty Blue */
-    --purple: #93A8B3;  /* Secondary elements mate Lighter Dusty Blue */
-    --border: #233554;  /* Cards ni border mate soft Navy color */
+    --bg: #12142B;      /* Deep Indigo Background (Ekdam ghadto dark color) */
+    --card: #1D1F3D;    /* Cards mate slightly lighter Deep Indigo */
+    --text: #F4F7FA;    /* Reading mate soft ane clear Cloud White Text */
+    --muted: #8E95B3;   /* Sub-title mate grayish-indigo muted color */
+    --cyan: #90E0EF;    /* Highlights ane buttons mate bright Ice Blue */
+    --purple: #48CAE4;  /* Secondary details mate thodo ghadto Ice Blue */
+    --border: #2B2D53;  /* Cards ni border mate smooth Indigo color */
 }
 * {
     margin: 0;
