@@ -12,13 +12,13 @@
 } */
 
 :root {
-    --bg: #0F172A;      /* Professional Dark Navy / Slate Background */
-    --card: #1E293B;    /* Card mate premium slate color */
-    --text: #F1F5F9;    /* Ekdam clean ane vachai tevu White Text */
-    --muted: #94A3B8;   /* Sub-title mate Professional Gray */
-    --cyan: #3B82F6;    /* IT Standard Royal Blue (Highlight color) */
-    --purple: #6366F1;  /* Secondary elements mate Corporate Indigo */
-    --border: #334155;  /* Subtle Border Color */
+    --bg: #0A192F;      /* Deep Navy Blue Background */
+    --card: #112240;    /* Cards mate slightly lighter Navy Blue */
+    --text: #FBF9F1;    /* Vachva ma aaramdayak Cream White Text */
+    --muted: #8892B0;   /* Sub-title mate grayish/muted color */
+    --cyan: #7CA1B4;    /* Highlights ane buttons mate Dusty Blue */
+    --purple: #93A8B3;  /* Secondary elements mate Lighter Dusty Blue */
+    --border: #233554;  /* Cards ni border mate soft Navy color */
 }
 * {
     margin: 0;
