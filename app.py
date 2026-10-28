@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # Page layout set karva
-st.set_page_config(page_title="My Data Science Portfolio", layout="wide")
+st.set_page_config(page_title="Mahek"s Profile", layout="wide")
 
 # Files read karvi
 with open("index.html", "r", encoding="utf-8") as f:
