@@ -12,13 +12,13 @@
 } */
 
 :root {
-    --bg: #0B0F19;      /* Ekdam dark midnight blue background */
-    --card: #111827;    /* Thodu light dark card mate, jethi card alag dekhay */
-    --text: #F3F4F6;    /* Ekdam chokhkho light (soft white) font */
-    --muted: #9CA3AF;   /* Subtitle ane extra info mate aacho gray color */
-    --cyan: #06B6D4;    /* Modern IT field no vibrant teal/cyan highlight color */
-    --purple: #8B5CF6;  /* Secondary element mate professional purple */
-    --border: #1F2937;  /* Card ane section ni border mate sleek dark color */
+    --bg: #F8FAFC;      /* Clean light grayish-blue background */
+    --card: #FFFFFF;    /* Cards mate pure white color */
+    --text: #0F172A;    /* Main text mate ekdam dark slate (vachva ma ekdam saral) */
+    --muted: #475569;   /* Subtitle ane extra text mate medium gray */
+    --cyan: #2563EB;    /* Buttons ane highlights mate Professional Royal Blue */
+    --purple: #7C3AED;  /* Secondary details mate Deep Purple */
+    --border: #E2E8F0;  /* Cards ni border mate soft light gray */
 }
 * {
     margin: 0;
