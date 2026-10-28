@@ -1,260 +1,119 @@
+<div align="center">
+  <p>DATA • INSIGHTS • INTELLIGENCE</p>
+  <h1>👋 Hi, I'm Mahek Maradiya</h1>
+  <h3>Data Science | Data Analytics | AI/ML</h3>
+  <p>I am learning Data Science, Data Analytics, Artificial Intelligence and Machine Learning. I enjoy exploring data, creating visualizations and learning predictive models.</p>
+  
+  <p>● <i>Currently Learning and Building My Skills</i></p>
+  <p>🐍 Python &nbsp;|&nbsp; 🤖 AI / ML &nbsp;|&nbsp; 📊 Analytics</p>
+</div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Data Science Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<hr>
 
-<header>
-    <a href="#home" class="logo">R<span>esume</span></a>
+## 🎓 About Me
+**GET TO KNOW ME**<br>
+I am studying Data Science, Data Analytics and AI/ML. I am learning Python, Pandas, NumPy, Statistics, Data Visualization, Excel and Power BI. I am also exploring Machine Learning and Deep Learning. My goal is to improve my practical skills through projects and build a career in the data and AI field.
 
-    <nav>
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#roadmap">Roadmap</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
+<hr>
 
-<section id="home" class="hero">
-    <div class="hero-content">
-        <p class="tagline">DATA • INSIGHTS • INTELLIGENCE</p>
+## 🚀 My Skills
+**WHAT I AM LEARNING**
 
-        <h1>Hi, I'm <span>Mahek Maradiya</span></h1>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h2>🐍</h2>
+      <b>Programming</b><br>
+      <p>Python</p>
+    </td>
+    <td align="center" width="33%">
+      <h2>📊</h2>
+      <b>Data Analysis</b><br>
+      <p>Pandas, NumPy, Data Cleaning, EDA</p>
+    </td>
+    <td align="center" width="33%">
+      <h2>📈</h2>
+      <b>Visualization</b><br>
+      <p>Matplotlib, Seaborn</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>📉</h2>
+      <b>Business Analytics</b><br>
+      <p>Excel, Power BI, Dashboards</p>
+    </td>
+    <td align="center">
+      <h2>📐</h2>
+      <b>Statistics</b><br>
+      <p>Probability, Mean, Median, Distributions</p>
+    </td>
+    <td align="center">
+      <h2>🤖</h2>
+      <b>AI & Machine Learning</b><br>
+      <p>Scikit-learn, SVM, Decision Trees, Deep Learning</p>
+    </td>
+  </tr>
+</table>
+<p align="center"><i>These are my current learning areas. I will update this section as I gain more practical experience.</i></p>
 
-        <h2>Data Science | Data Analytics | AI/ML</h2>
+<hr>
 
-        <p>
-            I am learning Data Science, Data Analytics, Artificial
-            Intelligence and Machine Learning. I enjoy exploring data,
-            creating visualizations and learning predictive models.
-        </p>
+## 💻 My Projects
+**LEARN BY BUILDING**
 
-        <a href="#projects" class="btn">Explore My Projects</a>
-        <a href="#contact" class="btn btn-outline">Contact Me</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌦️ Weather Prediction</h3>
+      <b>🟢 Practice Project</b>
+      <p>Practice analyzing weather data and predicting rain using a Decision Tree classifier.</p>
+      <i>🛠️ Python · Pandas · Scikit-learn</i>
+    </td>
+    <td width="50%">
+      <h3>🌸 Iris Flower Classification</h3>
+      <b>🟢 Practice Project</b>
+      <p>Practice classifying Iris flowers using a Support Vector Machine (SVM) model.</p>
+      <i>🛠️ Python · NumPy · SVM</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 Exploratory Data Analysis</h3>
+      <b>🟣 Planned Project</b>
+      <p>Explore a dataset, clean the data, discover patterns and create useful charts.</p>
+      <i>🛠️ Pandas · Matplotlib · Seaborn</i>
+    </td>
+    <td>
+      <h3>📈 Business Dashboard</h3>
+      <b>🟣 Planned Project</b>
+      <p>Plan a dashboard with key performance indicators, charts and business insights.</p>
+      <i>🛠️ Excel · Power BI</i>
+    </td>
+  </tr>
+</table>
 
-        <p class="learning">● Currently Learning and Building My Skills</p>
-    </div>
+<hr>
 
-    <div class="visual">
-        <div class="chart">
-            <h3>DATA ANALYSIS</h3>
-            <div class="bars">
-                <span style="height:35%"></span>
-                <span style="height:55%"></span>
-                <span style="height:45%"></span>
-                <span style="height:75%"></span>
-                <span style="height:60%"></span>
-                <span style="height:90%"></span>
-            </div>
-            <p>Python · Analytics · Machine Learning</p>
-        </div>
-        <div class="floating one">🐍 Python</div>
-        <div class="floating two">🤖 AI / ML</div>
-    </div>
-</section>
+## 🗺️ Learning Roadmap
+1. **Python Fundamentals:** Variables, loops, functions and problem-solving.
+2. **NumPy and Pandas:** Arrays, DataFrames, data cleaning and EDA.
+3. **Statistics and Visualization:** Statistics, probability, Matplotlib and Seaborn.
+4. **Excel and Power BI:** Formulas, PivotTables, reports and dashboards.
+5. **Machine Learning:** Classification, regression, model training and evaluation.
+6. **AI and Deep Learning:** Learn AI fundamentals and introductory neural networks.
 
-<section id="about" class="section">
-    <p class="subtitle">GET TO KNOW ME</p>
-    <h2 class="heading">About <span>Me</span></h2>
+<hr>
 
-    <div class="about-box">
-        <h3>🎓 My Learning Journey</h3>
-        <p>
-            I am studying Data Science, Data Analytics and AI/ML.
-            I am learning Python, Pandas, NumPy, Statistics,
-            Data Visualization, Excel and Power BI.
-        </p>
-        <p>
-            I am also exploring Machine Learning and Deep Learning.
-            My goal is to improve my practical skills through projects
-            and build a career in the data and AI field.
-        </p>
-    </div>
-</section>
-
-<section id="skills" class="section">
-    <p class="subtitle">WHAT I AM LEARNING</p>
-    <h2 class="heading">My <span>Skills</span></h2>
-
-    <div class="skill-grid">
-        <div class="skill-card">
-            <div class="icon">🐍</div>
-            <h3>Programming</h3>
-            <p>Python</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">📊</div>
-            <h3>Data Analysis</h3>
-            <p>Pandas, NumPy, Data Cleaning, EDA</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">📈</div>
-            <h3>Visualization</h3>
-            <p>Matplotlib, Seaborn</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">📉</div>
-            <h3>Business Analytics</h3>
-            <p>Excel, Power BI, Dashboards</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">📐</div>
-            <h3>Statistics</h3>
-            <p>Probability, Mean, Median, Distributions</p>
-        </div>
-
-        <div class="skill-card">
-            <div class="icon">🤖</div>
-            <h3>AI & Machine Learning</h3>
-            <p>Scikit-learn, SVM, Decision Trees, Deep Learning</p>
-        </div>
-    </div>
-
-    <p class="note">
-        These are my current learning areas. I will update this section
-        as I gain more practical experience.
-    </p>
-</section>
-
-<section id="projects" class="section">
-    <p class="subtitle">LEARN BY BUILDING</p>
-    <h2 class="heading">My <span>Projects</span></h2>
-
-    <div class="project-grid">
-        <div class="project-card">
-            <div class="project-icon weather">🌦️</div>
-            <div class="project-content">
-                <p class="status">Practice Project</p>
-                <h3>Weather Prediction</h3>
-                <p>
-                    Practice analyzing weather data and predicting
-                    rain using a Decision Tree classifier.
-                </p>
-                <p class="tech">Python · Pandas · Scikit-learn</p>
-            </div>
-        </div>
-
-        <div class="project-card">
-            <div class="project-icon iris">🌸</div>
-            <div class="project-content">
-                <p class="status">Practice Project</p>
-                <h3>Iris Flower Classification</h3>
-                <p>
-                    Practice classifying Iris flowers using a
-                    Support Vector Machine (SVM) model.
-                </p>
-                <p class="tech">Python · NumPy · SVM</p>
-            </div>
-        </div>
-
-        <div class="project-card">
-            <div class="project-icon analysis">📊</div>
-            <div class="project-content">
-                <p class="status planned">Planned Project</p>
-                <h3>Exploratory Data Analysis</h3>
-                <p>
-                    Explore a dataset, clean the data, discover
-                    patterns and create useful charts.
-                </p>
-                <p class="tech">Pandas · Matplotlib · Seaborn</p>
-            </div>
-        </div>
-
-        <div class="project-card">
-            <div class="project-icon dashboard">📈</div>
-            <div class="project-content">
-                <p class="status planned">Planned Project</p>
-                <h3>Business Dashboard</h3>
-                <p>
-                    Plan a dashboard with key performance indicators,
-                    charts and business insights.
-                </p>
-                <p class="tech">Excel · Power BI</p>
-            </div>
-        </div>
-    </div>
-
-    <p class="note">
-        Practice projects should be linked to their repositories
-        after you publish the code. Planned projects are future goals.
-    </p>
-</section>
-
-<section id="roadmap" class="section">
-    <p class="subtitle">MY LEARNING JOURNEY</p>
-    <h2 class="heading">Learning <span>Roadmap</span></h2>
-
-    <div class="roadmap">
-        <div class="roadmap-item">
-            <span>01</span>
-            <div><h3>Python Fundamentals</h3>
-            <p>Variables, loops, functions and problem-solving.</p></div>
-        </div>
-
-        <div class="roadmap-item">
-            <span>02</span>
-            <div><h3>NumPy and Pandas</h3>
-            <p>Arrays, DataFrames, data cleaning and EDA.</p></div>
-        </div>
-
-        <div class="roadmap-item">
-            <span>03</span>
-            <div><h3>Statistics and Visualization</h3>
-            <p>Statistics, probability, Matplotlib and Seaborn.</p></div>
-        </div>
-
-        <div class="roadmap-item">
-            <span>04</span>
-            <div><h3>Excel and Power BI</h3>
-            <p>Formulas, PivotTables, reports and dashboards.</p></div>
-        </div>
-
-        <div class="roadmap-item">
-            <span>05</span>
-            <div><h3>Machine Learning</h3>
-            <p>Classification, regression, model training and evaluation.</p></div>
-        </div>
-
-        <div class="roadmap-item">
-            <span>06</span>
-            <div><h3>AI and Deep Learning</h3>
-            <p>Learn AI fundamentals and introductory neural networks.</p></div>
-        </div>
-    </div>
-</section>
-
-<section id="contact" class="section contact">
-    <p class="subtitle">LET'S CONNECT</p>
-    <h2 class="heading">Contact <span>Me</span></h2>
-    <p>Connect with me and follow my learning journey.</p>
-
-    <div class="contact-links">
-        <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
-        <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
-        <a href="mailto:maradiyamahek534@gmail.com">Email</a>
-
-    </div>
-</section>
-
-<footer>
-    <p>Made with ❤️ and a passion for data.</p>
-    <p>© <span id="year"></span> Mahek Maradiya </p>
-</footer>
-
-<button id="topButton" aria-label="Back to top">↑</button>
-
-<script src="script.js"></script>
-</body>
-</html>
-
+<div align="center">
+  <h2>Let's Connect</h2>
+  <p>Connect with me and follow my learning journey.</p>
+  
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:maradiyamahek534@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
+  <br><br>
+  <p>Made with ❤️ and a passion for data.</p>
+  <p>© 2026 Mahek Maradiya</p>
+</div>
