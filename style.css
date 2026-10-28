@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
-:root {
+/* :root {
     --bg: #0b1020;
     --card: #141c30;
     --text: #f3f6ff;
@@ -9,6 +9,16 @@
     --cyan: #53e6d0;
     --purple: #a08bff;
     --border: #29344d;
+} */
+
+:root {
+    --bg: #0F172A;      /* Professional Dark Navy / Slate Background */
+    --card: #1E293B;    /* Card mate premium slate color */
+    --text: #F1F5F9;    /* Ekdam clean ane vachai tevu White Text */
+    --muted: #94A3B8;   /* Sub-title mate Professional Gray */
+    --cyan: #3B82F6;    /* IT Standard Royal Blue (Highlight color) */
+    --purple: #6366F1;  /* Secondary elements mate Corporate Indigo */
+    --border: #334155;  /* Subtle Border Color */
 }
 
 * {
